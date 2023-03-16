@@ -1,1 +1,21 @@
-hi
+터미널 접속
+
+git config --global init.defaultBranch main
+
+git config --global user.name "sangyeopKim"
+
+git config --global user.email "creativethony@naver.com"
+
+git init
+
+git remote add origin 리포지터리주소
+
+// git remote add origin https://github.com/sangyeopK/gittest
+
+git add .
+
+git commit -m "커밋메세지"
+
+// git commit -m "test"
+
+git push origin main
