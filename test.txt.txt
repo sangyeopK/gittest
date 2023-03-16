@@ -26,4 +26,6 @@ git push origin main
 git status란 변경점 추적
 
 git 안에서 수정한 후 pull 필수(push하려면)
+
+성공
  
