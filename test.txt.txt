@@ -12,6 +12,8 @@ git remote add origin 리포지터리주소
 
 // git remote add origin https://github.com/sangyeopK/gittest
 
+----
+
 git add .
 
 git commit -m "커밋메세지"
@@ -20,4 +22,6 @@ git commit -m "커밋메세지"
 
 git push origin main
 
-test9
+----------------------
+git status란 변경점 추적
+ 
