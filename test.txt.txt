@@ -20,4 +20,4 @@ git commit -m "커밋메세지"
 
 git push origin main
 
-test7
+test8
